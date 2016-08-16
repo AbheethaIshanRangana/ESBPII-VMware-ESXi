@@ -1,5 +1,7 @@
 # ESBPII-VMware-ESXi
 
+![esxi-dedicated-server-icon](https://cloud.githubusercontent.com/assets/17094710/17690011/578b6dec-63a9-11e6-8286-7dda49ca24b3.png)
+
 VMware ESXi
 
 VMware ESXi is an enterprise-class, bare-metal hypervisor developed by VMware for deploying and serving virtual computers. As a bare-metal hypervisor, ESXi is not a software application that installs in an operating system.
